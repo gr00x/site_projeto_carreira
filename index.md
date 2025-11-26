@@ -81,6 +81,7 @@ Durante o curso, foram realizadas até **34 atividades práticas**, utilizando *
 
 ![Certificado Digital – Cisco](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/cisco.png)
 
+---
 
 #### **Junior Cybersecurity Analyst Career Path**
 
