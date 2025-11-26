@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Sobre min
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Profissional certificado em cibersegurança, graduação em Defesa Cibernética e detentor das certificações Certified in Cybersecurity (ISC²) e Ethical Hacker (Cisco). Atuo com foco em defesa cibernética, detecção e resposta a incidentes e hardening de ambientes, além de realizar security assessments, análise de vulnerabilidades e implementação de controles de segurança para proteger infraestruturas críticas e garantir a continuidade dos negócios.
 
 ## Header 2
 
