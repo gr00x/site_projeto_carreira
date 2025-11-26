@@ -76,38 +76,55 @@ A Cisco confirma que o titular deste selo concluiu o curso **Ethical Hacker**. E
 
 ![Certificado Digital – Cisco](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/cisco.png)
 
+Aqui está o texto **formatado exatamente no mesmo estilo** das certificações anteriores: limpo, organizado e visualmente consistente.
+
 ---
 
-#### **Junior Cybersecurity Analyst Career Path**
+#### **Junior Cybersecurity Analyst Career Path – Cisco**
 
-A Cisco verifica se o ganhador deste selo concluiu com sucesso o Caminho de Carreira de Analista Júnior de Segurança Cibernética na Cisco Networking Academy. Eles entendem técnicas para monitorar e proteger a rede, incluindo firewalls, segurança na nuvem e criptografia, estão familiarizados com alertas de segurança e governança e têm habilidades para realizar avaliações de vulnerabilidades de rede e criar um plano de gerenciamento de riscos, incluindo investigações forenses e planejamento de resposta a incidentes.
+A Cisco verifica que o titular deste selo concluiu com sucesso o **Junior Cybersecurity Analyst Career Path** da Cisco Networking Academy.
+Essa trilha garante domínio das técnicas essenciais para monitorar e proteger redes, incluindo:
 
-* Skills
+* Firewalls
+* Segurança em nuvem
+* Criptografia
+
+Além disso, o profissional está familiarizado com alertas de segurança, governança e possui habilidades para:
+
+* Realizar avaliações de vulnerabilidade
+* Criar um plano de gerenciamento de riscos
+* Atuar em investigações forenses
+* Colaborar no planejamento de resposta a incidentes
+
+**Skills:**
+
 * Access Controls
 * Antimalware Protection
-Application Security
-Cloud Security
-Commom Cyber Threats
-Defending Systems And Devices
-Defense-in-Depth
-Firewalls
-Host-based Intrusion Prevention
-IP/TCP/UDP Vulnerabilities
-Linux Basics
-Mitigating Common Network Attacks
-Network Hardening
-Network Infrastructure Security
-Physical Security
-Securing WLANs
-Security Policies/Regulations/Standards
-System And Endpoint Protection
-System And Network Defense
-Windows Security
-Wireless And Mobile Device Attacks
+* Application Security
+* Cloud Security
+* Common Cyber Threats
+* Defending Systems and Devices
+* Defense-in-Depth
+* Firewalls
+* Host-based Intrusion Prevention
+* IP/TCP/UDP Vulnerabilities
+* Linux Basics
+* Mitigating Common Network Attacks
+* Network Hardening
+* Network Infrastructure Security
+* Physical Security
+* Securing WLANs
+* Security Policies / Regulations / Standards
+* System and Endpoint Protection
+* System and Network Defense
+* Windows Security
+* Wireless and Mobile Device Attacks
 
 ![Certificado Digital – Cisco](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/cisco02.png)
 
 ---
+
+
 
 
 
