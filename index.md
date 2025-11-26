@@ -38,6 +38,26 @@ Contribuindo para prevenir violações, reduzir riscos e manter conformidade reg
 Atualmente, estou em preparação para a certificação **CompTIA Security+**.
 
 ---
+## **Graduação em Defesa Cibernética – Estácio**
+
+Sou graduado em Defesa Cibernética pela Estácio, uma formação voltada para a proteção de infraestruturas digitais e a mitigação de ameaças cibernéticas.
+Ao longo do curso, desenvolvi habilidades em:
+
+* Segurança de redes
+
+* Criptografia
+
+* Sistemas operacionais
+
+* Análise de vulnerabilidades
+
+* Gestão de riscos
+
+* Resposta a incidentes
+
+Essa base acadêmica reforçou minha capacidade de atuar de forma estratégica e técnica na defesa de ambientes corporativos, contribuindo para a proteção de ativos críticos e o fortalecimento da postura de segurança das organizações.
+
+---
 
 ## **Laboratórios Hands-On**
 
