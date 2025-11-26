@@ -52,7 +52,7 @@ A Cisco verifica se o ganhador deste selo concluiu com sucesso o curso Ethical H
 
 
 
-![certificado digital](https://github.com/gr00x/site_projeto_carreira/blob/main/cisco.png)
+![Certificado Digital](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/cisco.png)
 
 
 
