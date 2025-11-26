@@ -77,7 +77,6 @@ Também demonstra meu compromisso com a evolução contínua diante das ameaças
 ---
 
 ## **Certificações**
-
 ---
 
 #### **Certified in Cybersecurity (CC) – ISC2**
