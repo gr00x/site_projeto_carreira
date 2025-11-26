@@ -1,6 +1,6 @@
 ---
 layout: default
-Aqui está o conteúdo **formatado no mesmo estilo clean, organizado e profissional** que você usou nas seções anteriores:
+
 
 ---
 
