@@ -81,9 +81,36 @@ Durante o curso, foram realizadas até **34 atividades práticas**, utilizando *
 
 ![Certificado Digital – Cisco](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/cisco.png)
 
+
+#### **Junior Cybersecurity Analyst Career Path**
+
+A Cisco verifica se o ganhador deste selo concluiu com sucesso o Caminho de Carreira de Analista Júnior de Segurança Cibernética na Cisco Networking Academy. Eles entendem técnicas para monitorar e proteger a rede, incluindo firewalls, segurança na nuvem e criptografia, estão familiarizados com alertas de segurança e governança e têm habilidades para realizar avaliações de vulnerabilidades de rede e criar um plano de gerenciamento de riscos, incluindo investigações forenses e planejamento de resposta a incidentes.
+
+Skills
+Access Controls
+Antimalware Protection
+Application Security
+Cloud Security
+Commom Cyber Threats
+Defending Systems And Devices
+Defense-in-Depth
+Firewalls
+Host-based Intrusion Prevention
+IP/TCP/UDP Vulnerabilities
+Linux Basics
+Mitigating Common Network Attacks
+Network Hardening
+Network Infrastructure Security
+Physical Security
+Securing WLANs
+Security Policies/Regulations/Standards
+System And Endpoint Protection
+System And Network Defense
+Windows Security
+Wireless And Mobile Device Attacks
 ---
 
-Se quiser, posso criar uma versão **ainda mais minimalista**, **mais técnica**, ou **mais voltada para recrutadores**. Só pedir.
+
 
 
 
