@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+**O que é um Profissional em Cibersegurança?**
 
 Um profissional em cibersegurança é responsável por proteger sistemas, redes e dados contra ameaças digitais. Esse especialista identifica vulnerabilidades, previne ataques cibernéticos e responde a incidentes de segurança para garantir a integridade, confidencialidade e disponibilidade das informações.
 Suas principais atividades incluem análise de riscos, testes de penetração (pentest), monitoramento de redes, implementação de políticas de segurança e investigação forense digital. Com o aumento constante de crimes cibernéticos, esses profissionais são essenciais para empresas de todos os portes.
