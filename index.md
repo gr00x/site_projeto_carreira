@@ -63,11 +63,6 @@ A Cisco confirma que o titular deste selo concluiu o curso **Ethical Hacker**. E
 * Definição de escopo
 * Execução e relatório de avaliações de vulnerabilidade
 * Estratégias de mitigação
-
-Durante o curso, foram realizadas até **34 atividades práticas**, utilizando **Kali Linux**, **WebSploit** e outras ferramentas de pentest.
-
-**Skills:**
-
 * Ethical Hacking
 * Exploiting Applications
 * Exploiting Networks
