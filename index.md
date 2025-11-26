@@ -25,7 +25,7 @@ Utilizo ambientes de laboratório hands-on como parte fundamental do desenvolvim
 Por meio dessa abordagem prática, executo avaliações de segurança em sistemas operacionais, aplicações web, redes e bancos de dados, documentando metodologias, ferramentas utilizadas e resultados obtidos. Os laboratórios hands-on não apenas validam conhecimentos teóricos, mas também demonstram a capacidade de identificar, explorar e mitigar vulnerabilidades de forma ética e profissional.
 Esta metodologia de aprendizado contínuo reflete o compromisso com a excelência técnica e a constante atualização frente às tendências e ameaças emergentes no campo da segurança da informação.
 
->> Link:  [CyberDefenders](https://cyberdefenders.org/p/3sx)
+> Link:  [CyberDefenders](https://cyberdefenders.org/p/3sx)
 
 
 
