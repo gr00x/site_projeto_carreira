@@ -31,29 +31,59 @@ Esta metodologia de aprendizado contínuo reflete o compromisso com a excelênci
 
 
 
-### Certificações
+Aqui está o **mesmo conteúdo formatado**, mais limpo, organizado e com boa estrutura visual para usar no seu site/portfólio — mantendo seu estilo menos formal e direto.
 
-**Certified in Cybersecurity (CC) - ISC2**
-A certificação Certified in Cybersecurity (CC) da ISC2 é uma credencial reconhecida internacionalmente que valida conhecimentos fundamentais em segurança da informação. Esta certificação abrange os princípios essenciais de cibersegurança, incluindo controles de segurança, governança de riscos, operações de segurança, controle de acesso e segurança de redes.
-Desenvolvida pela ISC2, organização líder mundial em certificações de segurança cibernética, a CC demonstra competência nos conceitos básicos necessários para atuar profissionalmente na área de proteção de sistemas e dados. A certificação comprova o compromisso com os mais altos padrões éticos da profissão e fornece uma base sólida para o desenvolvimento de carreira em cibersegurança.
-Possuir esta credencial reflete não apenas conhecimento técnico, mas também a adesão ao código de ética profissional da ISC2, reforçando a credibilidade e o comprometimento com a excelência no campo da segurança da informação.
+---
 
-![Certificado Digital](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/digitalcert.png)
+### **Certificações**
 
-**Ethical Hacker**
-A Cisco verifica se o ganhador deste selo concluiu com sucesso o curso Ethical Hacker. O titular desta credencial de nível estudantil tem uma ampla compreensão dos requisitos legais e de conformidade e é proficiente na arte de definir o escopo, executar, relatar avaliações de vulnerabilidade e recomendar estratégias de mitigação. O titular concluiu até 34 atividades práticas usando Kali Linux, WebSploit e outras ferramentas.
+---
 
-*Skills*                                                         
-        °Ethical Hacking                                                  °Reporting
-        °Exploiting Applications                                          °Social Engineering 
-        °Exploiting Networks                                              °Vulnerability Scanning 
-        °IoT Security                                                     °Vulnerability Assessment
-        °Penetration Testing                                              °Pentesting Tools
+#### **Certified in Cybersecurity (CC) – ISC2**
 
+A certificação **Certified in Cybersecurity (CC)**, da ISC2, valida conhecimentos fundamentais em segurança da informação. Ela cobre os princípios essenciais da área, como:
 
+* Controles de segurança
+* Governança e gerenciamento de riscos
+* Operações de segurança
+* Controle de acesso
+* Segurança de redes
 
-![Certificado Digital](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/cisco.png)
+Reconhecida internacionalmente, é uma credencial voltada para quem está iniciando na área e quer demonstrar entendimento sólido dos conceitos básicos. Também reforça o compromisso com o código de ética da ISC2 e com boas práticas profissionais.
 
+![Certificado Digital – CC](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/digitalcert.png)
+
+---
+
+#### **Ethical Hacker – Cisco**
+
+A Cisco confirma que o titular deste selo concluiu o curso **Ethical Hacker**. Essa credencial de nível estudantil demonstra domínio de:
+
+* Processos legais e de conformidade
+* Definição de escopo
+* Execução e relatório de avaliações de vulnerabilidade
+* Estratégias de mitigação
+
+Durante o curso, foram realizadas até **34 atividades práticas**, utilizando **Kali Linux**, **WebSploit** e outras ferramentas de pentest.
+
+**Skills:**
+
+* Ethical Hacking
+* Exploiting Applications
+* Exploiting Networks
+* IoT Security
+* Penetration Testing
+* Pentesting Tools
+* Vulnerability Scanning
+* Vulnerability Assessment
+* Social Engineering
+* Reporting
+
+![Certificado Digital – Cisco](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/cisco.png)
+
+---
+
+Se quiser, posso criar uma versão **ainda mais minimalista**, **mais técnica**, ou **mais voltada para recrutadores**. Só pedir.
 
 
 
