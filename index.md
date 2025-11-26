@@ -86,7 +86,7 @@ end
 *   Item baz
 *   Item zip
 
-### And an ordered list:
+### And an ordered list:Large image
 
 1.  Item one
 1.  Item two
@@ -113,7 +113,12 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Certificações
+
+**Certified in Cybersecurity (CC) - ISC2**
+A certificação Certified in Cybersecurity (CC) da ISC2 é uma credencial reconhecida internacionalmente que valida conhecimentos fundamentais em segurança da informação. Esta certificação abrange os princípios essenciais de cibersegurança, incluindo controles de segurança, governança de riscos, operações de segurança, controle de acesso e segurança de redes.
+Desenvolvida pela ISC2, organização líder mundial em certificações de segurança cibernética, a CC demonstra competência nos conceitos básicos necessários para atuar profissionalmente na área de proteção de sistemas e dados. A certificação comprova o compromisso com os mais altos padrões éticos da profissão e fornece uma base sólida para o desenvolvimento de carreira em cibersegurança.
+Possuir esta credencial reflete não apenas conhecimento técnico, mas também a adesão ao código de ética profissional da ISC2, reforçando a credibilidade e o comprometimento com a excelência no campo da segurança da informação.
 
 ![Certificado Digital](https://raw.githubusercontent.com/gr00x/site_projeto_carreira/main/digitalcert.png)
 
