@@ -18,6 +18,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Profissional certificado em cibersegurança, graduação em Defesa Cibernética e detentor das certificações Certified in Cybersecurity (ISC²) e Ethical Hacker (Cisco). Atuo com foco em defesa cibernética, detecção e resposta a incidentes e hardening de ambientes, além de realizar security assessments, análise de vulnerabilidades e implementação de controles de segurança para proteger infraestruturas críticas e garantir a continuidade dos negócios.
 
+Possuo domínio de frameworks como OWASP, MITRE ATT&CK e NIST Cybersecurity Framework, aplicando-os para identificar vetores de ataque e fortalecer a postura de segurança. Minha atuação inclui monitoramento proativo de ameaças, análise de logs em SIEM, threat hunting e resposta a incidentes, contribuindo para prevenir violações, reduzir riscos operacionais e manter a conformidade regulatória.
+
+Atualmente, estou em preparação para a certificação CompTIA Security+.
+
+
 ## Header 2
 
 > This is a blockquote following a header.
